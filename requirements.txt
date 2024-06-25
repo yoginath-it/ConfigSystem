@@ -5,4 +5,8 @@ pydantic
 psycopg2-binary
 python-dotenv
 
+<<<<<<< HEAD
 #hello,how r u,im good.
+=======
+#hello
+>>>>>>> df11d75 (main updata)
