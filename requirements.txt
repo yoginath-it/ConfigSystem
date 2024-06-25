@@ -5,4 +5,4 @@ pydantic
 psycopg2-binary
 python-dotenv
 
-#hello,how r u,im good
+#hello,how r u,im good.
