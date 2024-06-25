@@ -5,4 +5,4 @@ pydantic
 psycopg2-binary
 python-dotenv
 
-#after feature1 update and chaing in conflict feature branch.
+#after feature1 update and chaing in conflict feature branch .this file about the system requeriments.
